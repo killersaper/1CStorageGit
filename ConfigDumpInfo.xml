@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
 	<ConfigVersions>
-		<Metadata name="Catalog.ФизическиеЛица" id="77ec8767-6797-4b6b-b452-855c5bbc3484" configVersion="c95d4bba2bf31e4c80e8eeec7773989d00000000">
+		<Metadata name="Catalog.ФизическиеЛица" id="77ec8767-6797-4b6b-b452-855c5bbc3484" configVersion="3b1b6e647e5bd74f9cfb1401de01829400000000">
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.ДатаРождения" id="3552c345-52b7-41cb-bf34-72ce52b3532a"/>
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.ИНН" id="c8bf4e26-2860-42cf-8722-bf057ebcebec"/>
 		</Metadata>
-		<Metadata name="Catalog.ФизическиеЛица.ObjectModule" id="77ec8767-6797-4b6b-b452-855c5bbc3484.0" configVersion="e1fbc7f5221900489dbafd02c80fcc6700000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.ObjectModule" id="77ec8767-6797-4b6b-b452-855c5bbc3484.0" configVersion="5221edcdf281ca4b90f52f3f0d077b4000000000"/>
 		<Metadata name="Configuration.Конфигурация" id="6500f010-e614-4936-be8e-11330f3cc165" configVersion="1fa01b031bf53248be483a4f710eafa900000000"/>
 		<Metadata name="Language.Русский" id="9de1617b-377f-4403-9b1d-d5d6550b99a5" configVersion="284829acb0974c4292290cb39d13911f00000000"/>
 		<Metadata name="Role.ПолныеПрава" id="a3a460e6-4e4e-4e4d-817b-9803d7f2570d" configVersion="1a823d6da786934b8964cb4aba0541a200000000"/>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
+	<ConfigVersions>
+		<Metadata name="Catalog.ФизическиеЛица" id="77ec8767-6797-4b6b-b452-855c5bbc3484" configVersion="7c0043e31e5ef842be7770943089a61200000000">
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.ИНН" id="c8bf4e26-2860-42cf-8722-bf057ebcebec"/>
+		</Metadata>
+		<Metadata name="Catalog.ФизическиеЛица.ObjectModule" id="77ec8767-6797-4b6b-b452-855c5bbc3484.0" configVersion="57d81c686234be4b8239c54e42a0337400000000"/>
+		<Metadata name="Configuration.Конфигурация" id="6500f010-e614-4936-be8e-11330f3cc165" configVersion="1fa01b031bf53248be483a4f710eafa900000000"/>
+		<Metadata name="Language.Русский" id="9de1617b-377f-4403-9b1d-d5d6550b99a5" configVersion="284829acb0974c4292290cb39d13911f00000000"/>
+		<Metadata name="Role.ПолныеПрава" id="a3a460e6-4e4e-4e4d-817b-9803d7f2570d" configVersion="1a823d6da786934b8964cb4aba0541a200000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="a3a460e6-4e4e-4e4d-817b-9803d7f2570d.0" configVersion="2547b42723a8a54ba894e9378b68d6f900000000"/>
+		<Metadata name="Subsystem.Основная" id="1d41901e-68fe-430a-af22-3fcdb8826e0b" configVersion="88224de56f1624478d9a7a5cc930214800000000"/>
+		<Metadata name="Subsystem.Основная.CommandInterface" id="1d41901e-68fe-430a-af22-3fcdb8826e0b.1" configVersion="536c001925f56b4a9c0127764b9d965700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

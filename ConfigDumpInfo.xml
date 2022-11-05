@@ -6,8 +6,8 @@
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.ИНН" id="c8bf4e26-2860-42cf-8722-bf057ebcebec"/>
 		</Metadata>
 		<Metadata name="Catalog.ФизическиеЛица.ObjectModule" id="77ec8767-6797-4b6b-b452-855c5bbc3484.0" configVersion="c12410933223bb44bd6560d6ed29208d00000000"/>
-		<Metadata name="CommonModule.Тест" id="6faca319-df7c-470b-b1e6-cdb3de70d1fa" configVersion="0c11862d47d8a74494cafc097058c19100000000"/>
-		<Metadata name="CommonModule.Тест.Module" id="6faca319-df7c-470b-b1e6-cdb3de70d1fa.0" configVersion="fbfbf25724812a4a84236ce82e505e2300000000"/>
+		<Metadata name="CommonModule.Тест" id="6faca319-df7c-470b-b1e6-cdb3de70d1fa" configVersion="4e6d616df5237544b3a12d6cbd35066c00000000"/>
+		<Metadata name="CommonModule.Тест.Module" id="6faca319-df7c-470b-b1e6-cdb3de70d1fa.0" configVersion="58768ff3ceeea44cb9dd1fa705cefcb000000000"/>
 		<Metadata name="Configuration.Конфигурация" id="6500f010-e614-4936-be8e-11330f3cc165" configVersion="fa1c7fc7d717bf4d92a20ba2efd2077a00000000"/>
 		<Metadata name="Language.Русский" id="9de1617b-377f-4403-9b1d-d5d6550b99a5" configVersion="284829acb0974c4292290cb39d13911f00000000"/>
 		<Metadata name="Role.ПолныеПрава" id="a3a460e6-4e4e-4e4d-817b-9803d7f2570d" configVersion="1a823d6da786934b8964cb4aba0541a200000000"/>

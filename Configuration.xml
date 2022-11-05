@@ -212,6 +212,7 @@
 			<Language>Русский</Language>
 			<Subsystem>Основная</Subsystem>
 			<Role>ПолныеПрава</Role>
+			<CommonModule>Тест</CommonModule>
 			<Catalog>ФизическиеЛица</Catalog>
 		</ChildObjects>
 	</Configuration>
